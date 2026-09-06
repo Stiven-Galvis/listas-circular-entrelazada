@@ -1,4 +1,5 @@
 public class MiListaCircular {
+
     private class Nodo {
         int dato;
         Nodo siguiente;
